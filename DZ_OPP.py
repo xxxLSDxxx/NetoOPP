@@ -217,5 +217,3 @@ print(f'Средняя оценка студентов по курсу "Python":
 print(f'Средняя оценка лекторов по курсу "Git": {grades_lecturers(lecturer_list, "Git")}')
 print(f'Средняя оценка лекторов по курсу "Java": {grades_lecturers(lecturer_list, "Java")}')
 print(f'Средняя оценка лекторов по курсу "Python": {grades_lecturers(lecturer_list, "Python")}')
-print(student_1.grades)
-print(student_2.grades)
